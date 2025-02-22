@@ -32,7 +32,7 @@ const TestimonialData = [
   },
   {
     id:4,
-    name:"Deeplai",
+    name:"Deepali",
     text:"lorem ipsum lorem ipsum orem ipsum v lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
     img:Image4,
   },

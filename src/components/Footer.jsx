@@ -34,7 +34,7 @@ const Footer = () => {
       w-full object-cover z-[-1]'>
         <source src={TravelVideo} type='video/mp4'></source>
       </video>
-      <div className='container p-7 sm:p-2 lg:p-4 xl:p-5 2xl:p-6 w-[1000px] mx-auto'>
+      <div className='container p-7 sm:p-2 lg:p-4 xl:p-5 2xl:p-6 '>
         <div className='grid  md:grid-cols-3 py-5 bg-white/80 backdrop-blur-sm rounded-t-xl'>
         <div className='py-8 px-4'>
           <h1 className='flex items-center gap-3 text-xl sm:text-3xl font-bold text-justify
