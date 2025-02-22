@@ -1,5 +1,5 @@
 import React from 'react'
-import Logo from '../assets/LOGO-photoroom.png'
+import Logo from '../assets/LOGO-Photoroom.png'
 import { FaFacebook, FaInstagram , FaLinkedin ,FaLocationArrow, FaMobileAlt } from 'react-icons/fa'
 import TravelVideo from '../assets/travelVideo.mp4'
 import {Link } from 'react-router-dom'

@@ -1,6 +1,6 @@
 import React,{useState} from 'react'
 import { Link , NavLink } from 'react-router-dom'
-import LogoImg from '../assets/LOGO-photoroom.png'
+import LogoImg from '../assets/LOGO-Photoroom.png'
 import { FaCaretDown } from 'react-icons/fa'
 import { HiMenuAlt1, HiMenuAlt3 } from 'react-icons/hi'
 import ResponsiveMenu from './ResponsiveMenu'
