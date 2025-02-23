@@ -12,28 +12,28 @@ import "slick-carousel/slick/slick-theme.css";
 const TestimonialData = [
   {
     id:1,
-    name:"Deepali",
-    text:"lorem ipsum lorem ipsum orem ipsum v lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+    name:"Emma Johnson",
+    text:'An unforgettable journey! Every detail was perfectly planned, making our trip smooth and stress-free.',
     img:Image1,
   },
   {
     id:2,
-    name:"Deepali",
-    text:"lorem ipsum lorem ipsum orem ipsum v lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+    name:"Michael Smith ",
+    text:"Exploring new destinations with this travel service was a dream come true. Highly recommended!",
     img:Image2,
   },
   {
     id:3,
-    name:"Deepali",
-    text:"lorem ipsum lorem ipsum orem ipsum v lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+    name:"Sophia Martinez",
+    text:"From breathtaking landscapes to cultural experiences, every moment of our trip was magical!",
     img:Image3,
     
     
   },
   {
     id:4,
-    name:"Deepali",
-    text:"lorem ipsum lorem ipsum orem ipsum v lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+    name:"David Brown",
+    text:"Seamless booking, incredible destinations, and top-notch service—can't wait for my next adventure!",
     img:Image4,
   },
 ]
@@ -90,15 +90,10 @@ const Testimonial = () => {
                 Testimonial
               </p>
               <h1 className='text-3xl font-bold'>Testimonial</h1>
-              <p className='text-xs text-gray-400'>
+              <p className='text-sm mt-2 text-gray-400'>
                 {" "}
-                lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-                lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum 
-                lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum 
-                lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum v 
+                "Our testimonial section showcases real stories from travelers who have explored the world with us. Read firsthand experiences of unforgettable adventures, breathtaking destinations, and seamless travel planning. Let their journeys inspire your next adventure!"
               </p>
-
-              
             </div>
             {/*testimonial section*/}
             <Slider {... settings}>

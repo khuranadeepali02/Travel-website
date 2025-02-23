@@ -43,9 +43,7 @@ const Footer = () => {
 
           </h1>
           <p className='text-sm'>
-            lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-            lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-            lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
+          Stay connected with us and never miss an update on the best travel destinations, tips, and exclusive deals. Follow us on social media and subscribe to our newsletter for the latest travel inspiration.
           </p>
           <br/>
           <div className='flex items-center gap-3 mt-3'>

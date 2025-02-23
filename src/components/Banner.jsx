@@ -26,8 +26,8 @@ const Banner = () => {
                         className='text-3xl font-bold sm:text-4xl'
                         >Explore all corners of world with us</h1>
                         <p data-aos="fade-up"
-                        className='text-sm text-gray-500 tracking-wide leading-white '
-                        >lrem ipsum</p>
+                        className='text-sm text-gray-500 tracking-wide leading-white mt-2 mb-5 '
+                        >"Embark on a journey to explore all corners of the world, from breathtaking landscapes to vibrant cultures. Discover hidden gems, iconic landmarks, and unforgettable experiences that make travel truly extraordinary. Let your adventure begin with us!"</p>
 
                         <div data-aos="zoom-in" className='grid grid-cols-2 gap-6'>
                             <div className='space-y-6'>
